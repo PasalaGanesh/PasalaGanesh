@@ -1,0 +1,17 @@
+a=int(input('enter first number')
+b=int(input('enter second number')
+
+If a>=b
+   Print('a is grater than b')
+else
+   Print('a is smaller than b')
+If a<=b
+   Print('a is less than b')
+else
+   Print('a is grater than b')
+Output::
+a=2
+b=3
+a is smaller than b'
+
+a is less than b
