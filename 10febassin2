@@ -1,0 +1,8 @@
+n=into(input('enter number')
+if n&2==0
+   Print('given number is even')
+Else
+   Print('given number is odd')
+Output;;
+Enter number:4
+Given number is even
